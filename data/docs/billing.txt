@@ -1,0 +1,13 @@
+NimbusDesk Billing and Refund Policy
+
+Plans and billing cycles
+NimbusDesk offers three plans: Starter, Team, and Enterprise. Starter and Team can be billed monthly or annually. Enterprise is billed annually only, through an invoice.
+
+Refund policy
+Monthly subscriptions are not refundable once the billing period has started. Annual subscriptions can be refunded in full within 21 days of the purchase date. After 21 days, annual subscriptions are refunded pro rata only if the cancellation is caused by a service outage longer than 48 hours.
+
+Free trial
+Every new workspace gets a free trial of 9 days. No credit card is required to start the trial. When the trial ends, the workspace becomes read-only for 30 days before it is archived.
+
+Payment methods
+We accept Visa, Mastercard and UPI. American Express is not supported yet. Enterprise customers may pay by bank transfer.

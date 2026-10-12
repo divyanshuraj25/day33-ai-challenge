@@ -1,0 +1,10 @@
+NimbusDesk Support and SLA
+
+Support hours
+Standard support is available Monday to Friday, 9:00 to 18:00 IST. Enterprise customers get 24x7 support through a dedicated phone line.
+
+Response times
+Starter plan: first response within 24 business hours. Team plan: first response within 8 business hours. Enterprise plan: first response within 1 hour for priority-one issues.
+
+Uptime commitment
+NimbusDesk commits to 99.9 percent monthly uptime on the Team and Enterprise plans. If uptime falls below this, customers receive a service credit of 10 percent of the monthly fee.

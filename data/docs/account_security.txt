@@ -1,0 +1,13 @@
+NimbusDesk Account and Security Guide
+
+Passwords
+Passwords must be at least 14 characters long and include one number. Passwords expire every 120 days. The last 6 passwords cannot be reused.
+
+Two-factor authentication
+Two-factor authentication (2FA) is mandatory for workspace admins and optional for agents. NimbusDesk supports authenticator apps and hardware keys. SMS codes are not supported.
+
+Account lockout
+After 5 failed sign-in attempts, the account is locked for 20 minutes. Admins can unlock an account immediately from Settings > Members.
+
+Data retention
+Closed tickets are kept for 400 days and then permanently deleted. Enterprise workspaces can extend retention up to 7 years.

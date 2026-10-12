@@ -1,0 +1,10 @@
+NimbusDesk Integrations and API
+
+Supported integrations
+NimbusDesk integrates with Slack, Microsoft Teams, Jira and GitHub. Each integration is configured from Settings > Integrations by a workspace admin.
+
+API access
+The REST API allows 600 requests per minute per workspace. Requests above the limit receive an HTTP 429 response. API keys can be created only by admins.
+
+Webhooks
+Webhooks are sent when a ticket is created, updated or closed. A failed webhook is retried 3 times, with 10 minutes between attempts.
